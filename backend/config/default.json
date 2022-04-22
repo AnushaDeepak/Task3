@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb://localhost/client",
+    "jwtsecret": "18886cd390314af352b9cd17fc3680f941e0aebd4dc365b5fcd85c7cac59b160",
+    "StripeAPIKey": "sk_test_51KqKfTSDLWXjEJHZgK97pR2I951RztIzwquVeYkaltSkCgyyqRWQyp5OL83JsUMOaPgKzUxnxGbLI8dZCZ4wIWpL004gB6ANIe"
+}
